@@ -1,1 +1,1 @@
-# SeminarioMobile-Framework-Ionic-caracteristicas-vantagens-e-desvantagens-exemplos-e-aplicacoes
+# Este repositório contém o material apresentado no seminário sobre o Framework Ionic, onde abordamos suas principais características, vantagens, desvantagens, exemplos de uso e aplicações no desenvolvimento de aplicativos móveis. O objetivo é fornecer uma visão geral sobre o Ionic e demonstrar sua importância na criação de aplicativos híbridos.
